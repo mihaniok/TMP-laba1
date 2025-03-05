@@ -1,0 +1,20 @@
+{
+    "buildings": [
+      {
+        "id": 1,
+        "name": "Офисное здание А",
+        "address": "ул. Центральная, 1",
+        "yearBuilt": 2010,
+        "safetyLevel": "Высокий",
+        "lastInspection": "2023-05-15"
+      },
+      {
+        "id": 2,
+        "name": "Жилой комплекс 'Солнечный'",
+        "address": "пр. Мира, 45",
+        "yearBuilt": 2018,
+        "safetyLevel": "Средний",
+        "lastInspection": "2023-04-20"
+      }
+    ]
+  }
